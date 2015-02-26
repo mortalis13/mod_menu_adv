@@ -1,0 +1,11 @@
+
+.menu-disabled-item-custom,
+.menu-disabled-plugin-custom{
+  background-color: #BD362F !important;
+  color:#fff !important;
+}
+
+.menu-disabled-item-custom:hover,
+.menu-disabled-plugin-custom:hover{
+  background-color: #DD3D37 !important;*/
+}
