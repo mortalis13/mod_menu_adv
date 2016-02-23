@@ -41,7 +41,8 @@
 
 				<field
 					name="shownew"
-					type="list"
+					type="radio"
+					class="btn-group btn-group-yesno"
 					default="1"
 					label="MOD_MENU_ADV_FIELD_SHOWNEW"
 					description="MOD_MENU_ADV_FIELD_SHOWNEW_DESC">
@@ -51,7 +52,8 @@
 
 				<field
 					name="showhelp"
-					type="list"
+					type="radio"
+					class="btn-group btn-group-yesno"
 					default="1"
 					label="MOD_MENU_ADV_FIELD_SHOWHELP"
 					description="MOD_MENU_ADV_FIELD_SHOWHELP_DESC">
