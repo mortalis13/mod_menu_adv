@@ -1,5 +1,5 @@
 
-![](http://s10.postimg.org/57p2oc9u1/54ef1542ec689_resize_Down960px420px16.png)
+![](advanced-admin-menu-1.png)
 
 The advanced menu for the **Joomla 3** Admin side. Based on the default **mod_menu** module. 
 
